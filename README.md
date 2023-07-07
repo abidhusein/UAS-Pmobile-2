@@ -19,9 +19,9 @@
 API `https://booking.kai.id/api/stations2`
 
 ## Output Program
-1[Gambar1](src/UAS%20Pmobile%202.png)
+![Gambar1](src/UAS%20Pmobile%202.png)
 <br>
-1[Gambar1](src/UAS%20Pmobile%202_2.png)
+![Gambar1](src/UAS%20Pmobile%202_2.png)
 
 ### Program
 
